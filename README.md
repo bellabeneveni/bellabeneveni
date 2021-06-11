@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bellabeneveni
+- 👀 Starting to code in Python, Java and Javascript :)
+- I am truly passionate about technology!
+- I have solid experience in Human Resources, this was the area that introduced me to the Tech World, where I found my true calling in software development!
+- At this moment, I am studying more about different programming languages, cloud technology (such as AWS and GCP), using GIT and Github and learning more about software best practices.
