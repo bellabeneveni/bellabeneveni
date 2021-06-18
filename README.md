@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bellabeneveni
+- 👋 Hi, I’m @bellabeneveni, Isabella Beneveni Smith
 - 👀 Starting to code in Python, Java and Javascript :)
 - I am truly passionate about technology!
 - I have solid experience in Human Resources, this was the area that introduced me to the Tech World, where I found my true calling in software development!
